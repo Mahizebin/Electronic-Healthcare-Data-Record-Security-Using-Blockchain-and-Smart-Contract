@@ -1,36 +1,4 @@
 
-
-🆁🅴🆀🆄🅸🆁🅴🅼🅴🅽🆃🆂
-
-1.Install nodeJs
-
-link :- https://nodejs.org/en/download/
-
-2.Install Ganache
-
-link :- https://www.trufflesuite.com/ganache
-
-3.Add Metamask Extension in Browser
-
-link :- https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en-US
-
-
-4.open cmd as Administrator and type
-
-	$npm install -g truffle
-	
-5.open Ganache
- 
- * -->New Workspace
- * -->AddProject
- * -->Select truffle-config.js in Project Directory
- * -->Save Workspace
- 
-6.open cmd in Project Directory
- ```bash
-	$npm install
-	$npm start
-```
-			
-														
-																						
+An electronic health record (EHR) is a technology that allows you to keep track of your health information. It keeps computerized records of several healthcare organizations. Records are exchanged via enterprise-wide data systems as well as other networking technologies and exchanges. Patients nowadays expect immediate access to their health information. However, the health sector comes with immediate access to data, and there are worries about the privacy and security of medical records of patients. As a result, a blockchain-based solution can assist in resolving this issue. The blockchain has the potential to beat the conventional centralized system, which suffers from a severe lack of accessibility. This is a decentralized technology that has recently been presented to provide a new viewpoint on data security and system efficiency.
+It is a published project for my senior year project showcase,
+The link to check it out- https://www.hindawi.com/journals/js/2022/7299185/
